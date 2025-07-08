@@ -1,7 +1,10 @@
 # HR-Analytics
 Project Title: HR Analytics in Power BI – Explored attrition factors and created KPIs to improve employee retention.
+
 Company: Atlas Labs (Fictional Case Study)
+
 Tools Used: Power BI, DAX, Power Query, Data Modelling
+
 Short Description / Purpose:
 Developed an interactive HR analytics dashboard in Power BI for a fictional company (Atlas Labs) to analyze employee data, identify key attrition drivers, and support retention strategies. Used DAX and data modelling to deliver actionable insights through clean, branded visualizations.
 
